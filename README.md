@@ -1,5 +1,5 @@
 # Python
-My Python Repository  
+My Python Repository estou utilizando a versão do Python 3.12.7  
 <div style="text-align:center"><img alt='Logo' src="icone.png" width="200" height="200"></div>
 
 # Calculadora do iPhone
